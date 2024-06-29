@@ -1,0 +1,8 @@
+com\mycompany\repository\DatabaseStorage.class
+com\mycompany\repository\Repository.class
+com\mycompany\repository\DataStorage.class
+com\mycompany\repository\Main.class
+com\mycompany\repository\MemoryStorage1.class
+com\mycompany\repository\FileStorage.class
+com\mycompany\repository\MemoryStorage.class
+com\mycompany\repository\MemoryStorage2.class
